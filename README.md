@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby you are glowing in the middle of the floor
+> Every time you move you leave me begging for some more
+> I just want a sacred kiss to make the night ignite
+> Let me pull you closer, we are doing it tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
